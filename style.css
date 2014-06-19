@@ -9,3 +9,7 @@ License: The MIT License (MIT)
 License URI: http://opensource.org/licenses/MIT
 Text Domain: starter-theme
 */
+
+body {
+    background: #f2f2f2;
+}
